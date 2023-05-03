@@ -4,10 +4,11 @@ def main():
 
 if __name__ == "__main__":
   main()
-#git add .
+#git add . přidá všechny složky do githubu
 #git commit -m "upravil jsem main"
-#git push
-#git branch
-#git branch nova_featurka - vytvoří nový branch
-#git switch nova_featurka - přepne mě do nové větve
-#ahojky pusino
+#git commint -d uprava - vymaže větev uprava
+#git push - pushe změny do githubu
+#git branch - ukaže v jake jsem větvy
+#git branch uprava - vytvoří nový branch
+#git switch uprava - přepne mě do nové větve uprava
+#git pull
